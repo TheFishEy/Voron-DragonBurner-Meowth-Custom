@@ -4,15 +4,10 @@ This is a mod I have designed for my cr-10 v2 using thje dragonburner toolhead. 
 ## Meowth Version is at V0/Dragon_Burner/STLs/v0.2/Cowls/Voron/Cat_Cowls
 ## Can also be found at https://www.printables.com/model/1264538
 
+Original README below this line
+___
 
-
-
-
-
-
-
-
-# Original README below this line
+ 
 # Voron Modifications
 
 These are mods that I have designed for my V0.1 and Trident.
